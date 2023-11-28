@@ -23,6 +23,20 @@ output: rticles::arxiv_article
 
 Here goes an introduction text
 
+```{r pressure, include=FALSE}
+# Clear your workspace
+rm(list=ls())
+
+library(caret)
+library(stargazer)
+library(lmtest)
+library(car)
+library(tidyverse)
+library(dplyr)
+
+car_data <- read.csv("data/used_car_sales.csv")
+```
+
 # Headings: first level
 \label{sec:headings}
 
