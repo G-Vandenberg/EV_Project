@@ -6,20 +6,15 @@ authors:
     affiliation: San Francisco State University
     location: San Francisco, CA
     email: gvandenberg@sfsu.edu
-#abstract: |
-#  [DO LAST]
+#abstract:
 #keywords:
-#  - blah
-#  - blee
-#  - bloo
-#  - these are optional and can be removed
 bibliography: references.bib
 biblio-style: unsrt
 output: html_document 
 #output: rticles::arxiv_article
 ---
 ##### Gianluca Vandenberg
-##### ID: 915219297
+
 ##### 12/11/2023
 
 ```{r, echo=FALSE, results='hide', message=FALSE}
