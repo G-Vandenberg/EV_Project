@@ -8,13 +8,14 @@
 
   - install.packages("caret")
   - install.packages("stargazer")
-install.packages("lmtest")
-install.packages("car")
-install.packages("tidyverse")
-install.packages("dplyr")
-install.packages("gridExtra")
-install.packages(quantreg)
+  - install.packages("lmtest")
+  - install.packages("car")
+  - install.packages("tidyverse")
+  - install.packages("dplyr")
+  - install.packages("gridExtra")
+  - install.packages("quantreg")
 
+* Knit file to view Paper in HTML or change 'output: pdf_document' to view PDF
 
 ### References 
 * Data source: https://www.kaggle.com/datasets/tsaustin/us-used-car-sales-data/
