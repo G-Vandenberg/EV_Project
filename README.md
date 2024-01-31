@@ -17,5 +17,7 @@
 
 * Knit file to view Paper in HTML or change 'output: pdf_document' to view PDF
 
+* Both Documents are also available without knitting under EV_Project > data > EV_Project.html or EV_Project.pdf
+
 ### References 
 * Data source: https://www.kaggle.com/datasets/tsaustin/us-used-car-sales-data/
