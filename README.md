@@ -13,10 +13,8 @@ install.packages("car")
 install.packages("tidyverse")
 install.packages("dplyr")
 install.packages("gridExtra")
+install.packages(quantreg)
 
-
-
-*in progress*
 
 ### References 
 * Data source: https://www.kaggle.com/datasets/tsaustin/us-used-car-sales-data/
