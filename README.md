@@ -6,8 +6,8 @@
 
 * Review the following packages and run commands in the console that are not yet installed:
 
-install.packages("caret")
-install.packages("stargazer")
+- install.packages("caret")
+- install.packages("stargazer")
 install.packages("lmtest")
 install.packages("car")
 install.packages("tidyverse")
